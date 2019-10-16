@@ -3,7 +3,7 @@
   <channel>
     <title>Pokusna sdilena sketchova rss knihova</title>
     <description>My Sketch Library</description>
-    
+        
     <image>
       <url></url>
       <title>Pokusna sdilena sketchova rss knihova</title>
@@ -13,7 +13,7 @@
     <item>
       <title>Pokusna sdilena sketchova rss knihova</title>
       <pubDate>Wed, 11 Jul 2018 11:19:04 +0000</pubDate>
-      <enclosure url="https%3A%2F%2Fmichalklimt.github.io%2Fdesign-a%2Flibrary-public.xml" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="https%3A%2F%2Fmichalklimt.github.io%2Fdesign-a%2Flibrary-public.xml" type="michalklimt/design-a" sparkle:version="1"/>
     </item>
   </channel>
 </rss>
