@@ -17,7 +17,7 @@
     <item>
       <title>Pokusna sdilena sketchova rss knihova</title>
       <pubDate>Wed, 11 Jul 2018 11:19:04 +0000</pubDate>  //tohle nevim jak generovat automaticky
-      <enclosure url="mysketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <enclosure url="mysketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/> // omrknout type a sparkle version
     </item>
   </channel>
 </rss>
