@@ -1,9 +1,12 @@
 // Tohle je návod:
 // https://medium.com/@almonk/how-to-automatically-update-your-sketch-libraries-using-rss-1a6b6be3d72f
+//
+// Tohle je příklad
+// https://www.w3schools.com/xml/xml_rss.asp
 
 
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"> //zjistit, co dělaj tyhle odkazy
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://w    ww.andymatuschak.org/xml-namespaces/sparkle"> //zjistit, co dělaj tyhle odkazy
   <channel>
     <title>Pokusna sdilena sketchova rss knihova</title>
     <description>My Sketch Library</description>
@@ -17,7 +20,7 @@
     <item>
       <title>Pokusna sdilena sketchova rss knihova</title>
       <pubDate>Wed, 11 Jul 2018 11:19:04 +0000</pubDate>  //tohle nevim jak generovat automaticky
-      <enclosure url="mysketchlibrary.sketch" type="application/octet-stream" sparkle:version="1"/> // omrknout type a sparkle version
+      <enclosure url="https%3A%2F%2Fmichalklimt.github.io%2Fdesign-a%2Flibrary-public.xml" type="application/octet-stream" sparkle:version="1"/> // omrknout type a sparkle version
     </item>
   </channel>
 </rss>
