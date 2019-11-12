@@ -1,4 +1,4 @@
-# design-a
+# Sketch library RSS
 
 Pokusná RSS knihovna pro sketch.
 
